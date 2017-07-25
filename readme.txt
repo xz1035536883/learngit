@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick master.
 Creating a new branch is quick text.
 git pull
+edit file
