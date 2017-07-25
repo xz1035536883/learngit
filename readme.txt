@@ -7,3 +7,4 @@ Creating a new branch is quick text.
 git pull
 edit file
 git push
+haha
