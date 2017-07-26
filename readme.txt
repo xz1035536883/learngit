@@ -8,3 +8,4 @@ git pull
 edit file
 git push
 haha
+conflit
